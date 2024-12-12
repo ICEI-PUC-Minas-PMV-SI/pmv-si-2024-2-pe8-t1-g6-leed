@@ -421,6 +421,12 @@ Comunicação: Esforços para garantir que os parceiros entendam e aceitem as mu
 Medidas de Segurança: Implementação de medidas de segurança para proteger dados e sistemas pode custar entre R$ 5.000 a R$ 15.000 por ano.  
 Conformidade: Garantir que os sistemas estejam em conformidade com regulamentações e normas de segurança.  
 
+Solução
+
+![Captura de tela 2024-12-12 084451](https://github.com/user-attachments/assets/0e0769c6-e0f9-4a78-aeaf-1d401921d66a)
+
+![Captura de tela 2024-12-12 084518](https://github.com/user-attachments/assets/54a891c6-f1b1-4697-b18e-a21186b2cb79)
+
 Conclusão  
 A implementação de soluções de SI na LEED pode trazer inúmeros benefícios, mas é crucial considerar todos os custos envolvidos, tanto diretos quanto indiretos. A análise de custo-benefício deve levar em conta a resistência à mudança, a preparação da mão de obra e a adesão de parceiros de negócio para garantir uma transição suave e bem-sucedida. 
 
