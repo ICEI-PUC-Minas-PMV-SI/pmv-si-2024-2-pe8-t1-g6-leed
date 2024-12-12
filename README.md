@@ -1,4 +1,4 @@
-# Título do Projeto
+# Consultoria LEED
 
 `CURSO: Sistemas de Informação`
 
@@ -6,7 +6,6 @@
 
 `SEMESTRE: 8º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
@@ -17,15 +16,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Vítor Miranda Batista Pereira
 * Willian Medeiros de Faria
 
-
-
 ## Orientador
 
-* Simone Fernandes Queiroz
-
-# Planejamento
-
-Descrever o planejamento de cada etapa       
+* Simone Fernandes Queiroz     
 
 # Código
 
